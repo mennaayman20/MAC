@@ -1,0 +1,85 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "name": "Big Mac",
+      "description": "Two all-beef patties, special sauce, lettuce, cheese, pickles, onions on a sesame seed bun.",
+      "price": 89.99,
+      "image": "images/download (6).jpg",
+        "rating": 4.6
+    },
+    {
+      "id": 2,
+      "name": "McChicken",
+      "description": "Crispy chicken fillet with lettuce and mayonnaise in a toasted bun.",
+      "price": 64.99,
+      "image": "images/Delicious And Testy Cheese Burger, Burger, Food, Fastfood PNG Transparent Image and Clipart for Free Download.jpg",
+        "rating": 4.2
+    
+    },
+    {
+      "id": 3,
+      "name": "Cheeseburger",
+      "description": "Juicy beef patty with cheese, ketchup, mustard, and pickles.",
+      "price": 49.99,
+      "image": "images/download (7).jpg",
+        "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "Spicy Chicken Deluxe",
+      "description": "Spicy crispy chicken, lettuce, tomato, and creamy sauce.",
+      "price": 74.99,
+      "image": "images/Beef Burger Photos - Download Free High-Quality Pictures _ Freepik.jpg",
+        "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Double Cheeseburger",
+      "description": "Double the cheese, double the beef, and double the fun.",
+      "price": 94.99,
+      "image": "images/burger.jpg",
+        "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Fish Filet",
+      "description": "Tender fish filet, tartar sauce and melted cheese on a steamed bun.",
+      "price": 59.99,
+      "image": "images/Vegan Burger King Chick'n Sandwich.jpg",
+        "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Veggie Burger",
+      "description": "Grilled veggie patty with fresh lettuce, tomato, and onion.",
+      "price": 54.99,
+      "image": "images/Juicy Burger Hamburger Cheeseburger.jpg",
+        "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Zinger Burger",
+      "description": "Extra crispy spicy chicken with mayo and crunchy lettuce.",
+      "price": 84.99,
+      "image": "images/Copycat Zinger.jpg",
+        "rating": 4.9
+    },
+    {
+      "id": 9,
+      "name": "BBQ Angus Burger",
+      "description": "Angus beef, smoked BBQ sauce, crispy onions, and cheddar cheese.",
+      "price": 109.99,
+      "image": "images/download (8).jpg",
+        "rating": 4.1
+    },
+    {
+      "id": 10,
+      "name": "Chicken Strips Sandwich",
+      "description": "Juicy chicken strips with creamy garlic sauce and lettuce.",
+      "price": 69.99,
+      "image": "images/download (9).jpg",
+        "rating": 4.6
+    }
+  ]
+}

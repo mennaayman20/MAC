@@ -1,0 +1,18 @@
+.yamy{
+    transition: all 0.6s ease;
+}
+
+.yamy:hover{
+
+    background-color: #ffe57f; /* لون أصفر فاتح */
+    padding: 1rem;
+    border-radius: 1rem;
+  
+    cursor: pointer;
+     
+  
+}
+
+ .yamy:active {
+    transform: scale(1.05); /* تكبير بسيط */
+  }
